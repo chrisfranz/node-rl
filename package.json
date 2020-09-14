@@ -1,0 +1,7 @@
+{
+  "name": "node-rl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chrisfranz <chrisfranz@mac.com>",
+  "license": "MIT"
+}
